@@ -1,0 +1,50 @@
+# --- Unity folders that rebuild themselves (never upload) ---
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# --- Editor and Windows files ---
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+Thumbs.db
+
+# --- Build files ---
+*.apk
+*.aab
+*.unitypackage
+*.zip
+
+# --- Unity leftovers ---
+Assets/_Recovery*
+Assets/_TerrainAutoUpgrade*
+Assets/Readme*
+
+# --- Third-party packs (not mine to re-share) ---
+Assets/FantasyEnvironments*
+Assets/LUMINATE*
+Assets/Polytope Studio*
+Assets/Vefects*
+Assets/StarterAssets*
+Assets/TextMesh Pro*
+Assets/Packages*
+
+# --- Mixamo characters and animation files, weapons ---
+Assets/Characters*
+Assets/Paladin J Nordstrom*
+Assets/Ash@Idle*
+Assets/Weapons*
+*.fbx
+*.fbm/
+
+# --- Audio (move back later if all sounds are CC0 or my own) ---
+Assets/Audio*
