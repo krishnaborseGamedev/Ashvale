@@ -3,7 +3,7 @@
 A 3D stealth-action game built in Unity 6 with hand-coded guard AI.
 Sneak through a walled village, find the hidden key, and escape the guards.
 
-![Gameplay](Screenshots/gameplay.png)
+![Gameplay](Screenshots/Screenshot%202026-11-14%20190542.png)
 
 ## Play it
 
