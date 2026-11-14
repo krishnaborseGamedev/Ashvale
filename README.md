@@ -35,9 +35,11 @@ You can fight back with a sword (combat mode), or stay out of sight.
 
 ## Screenshots
 
-![Village](Screenshots/village.png)
-![Guard chase](Screenshots/chase.png)
-![Win screen](Screenshots/win.png)
+<img src="Screenshots/Screenshot%202026-11-14%20190759.png" width="48%"> <img src="Screenshots/Screenshot%202026-11-14%20190849.png" width="48%">
+<img src="Screenshots/Screenshot%202026-11-14%20190947.png" width="48%"> <img src="Screenshots/Screenshot%202026-11-14%20191033.png" width="48%">
+<img src="Screenshots/Screenshot%202026-11-14%20191202.png" width="48%"> <img src="Screenshots/Screenshot%202026-11-14%20191223.png" width="48%">
+<img src="Screenshots/Screenshot%202026-11-14%20191245.png" width="48%"> <img src="Screenshots/Screenshot%202026-11-14%20191306.png" width="48%">
+<img src="Screenshots/Screenshot%202026-11-14%20191423.png" width="48%">
 
 ## What I built
 
