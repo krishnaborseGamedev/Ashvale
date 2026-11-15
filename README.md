@@ -35,11 +35,10 @@ You can fight back with a sword (combat mode), or stay out of sight.
 
 ## Screenshots
 
-<img src="Screenshots/Screenshot%202026-11-14%20190759.png" width="48%"> <img src="Screenshots/Screenshot%202026-11-14%20190849.png" width="48%">
-<img src="Screenshots/Screenshot%202026-11-14%20190947.png" width="48%"> <img src="Screenshots/Screenshot%202026-11-14%20191033.png" width="48%">
-<img src="Screenshots/Screenshot%202026-11-14%20191202.png" width="48%"> <img src="Screenshots/Screenshot%202026-11-14%20191223.png" width="48%">
-<img src="Screenshots/Screenshot%202026-11-14%20191245.png" width="48%"> <img src="Screenshots/Screenshot%202026-11-14%20191306.png" width="48%">
-<img src="Screenshots/Screenshot%202026-11-14%20191423.png" width="48%">
+<img src="Screenshots/shot2.jpg" width="48%"> <img src="Screenshots/shot3.jpg" width="48%">
+<img src="Screenshots/shot4.jpg" width="48%"> <img src="Screenshots/shot7.jpg" width="48%">
+<img src="Screenshots/shot8.jpg" width="48%"> <img src="Screenshots/shot9.jpg" width="48%">
+<img src="Screenshots/shot10.jpg" width="48%">
 
 ## What I built
 
